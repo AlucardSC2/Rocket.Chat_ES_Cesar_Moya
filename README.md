@@ -2,6 +2,6 @@
 
 URL: https://rocketchat.click/home
 
-admin: Cesar
+user: testuser
 
-admin password : cesaRKobe24
+password : testuser1234
